@@ -33,8 +33,8 @@ Im **YUNIL Y EBABACOL** also known as **Yunil**, and I'm a **top GitHub committe
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=carlcastanas&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 -----
-Credits: [carlcastanas](https://github.com/carlcastanas)
+Credits: [YunilEbabacol](https://github.com/YunilEbabacol/YunilEbabacol/edit/main/README.md)
 
 Last Edited on: 12/19/2021
 
-![Visitor Count](https://profile-counter.glitch.me/{carlcastanas}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{YunilEbabacol}/count.svg)
