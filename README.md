@@ -8,7 +8,7 @@ Im **YUNIL Y EBABACOL** also known as **Yunil**, and I'm a **top GitHub committe
 
 ### How to reach me: 
 <a href="mailto: yunilebabacol@gmail.com">
-<img src="https://img.shields.io/badge/-yunilebabacol@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@its_me_yuns_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://https://www.linkedin.com/in/yunil-ebabacol-a3b477215//"><img src="https://img.shields.io/badge/Yunil Ebabacol-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.Yunil Ebabacol.netlify.app/"><img src="https://img.shields.io/badge/Yunil Ebabacol.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-yunilebabacol@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@its_me_yuns_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://https://www.linkedin.com/in/yunil-ebabacol-a3b477215//"><img src="https://img.shields.io/badge/Yunil Ebabacol-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.Yunil Ebabacol.netlify.app/"><img src="https://github.com/YunilEbabacol"></a>
 
 ### Current Status Quo:
 
